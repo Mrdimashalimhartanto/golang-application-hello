@@ -4,6 +4,6 @@ func SayHelloGuys(name string) string {
 	return "hallo bro" + name
 }
 
-func AlamatTinggal(address string) string {
+func AddressStay(address string) string {
 	return "Address" + address
 }
